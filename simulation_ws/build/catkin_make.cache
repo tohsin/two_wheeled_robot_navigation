@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/Users/elena/dev/two_wheeled_robot_navigation/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/Users/elena/dev/two_wheeled_robot_navigation/simulation_ws/install -G Unix Makefiles

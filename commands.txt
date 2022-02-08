@@ -1,0 +1,3 @@
+#create package  -> name and dependencies
+catkin_create_pkg m2r_decription urdf
+xml is repetive in xacro micro versions you can combine
